@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+**/TestResults/
+**/outbox/
+audit.log
+*.received.txt
+.dotnet-home/
+.nuget-packages/
